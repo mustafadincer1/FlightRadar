@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\staj\\source\\repos\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\datatransfer\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\datatransfer\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\datatransfer\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\datatransfer\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\datatransfer\\tcpdatareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\datatransfer\\tcpdatareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\models\\tracedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\models\\tracedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\configuration\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\configuration\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|c:\\users\\staj\\source\\repos\\signalr\\signalr\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77007593-B76D-4AA0-B781-6DEAC6779BA4}|SignalR\\SignalR.csproj|solutionrelative:signalr\\logs\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "log.txt",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Logs\\log.txt",
+              "RelativeDocumentMoniker": "SignalR\\Logs\\log.txt",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Logs\\log.txt",
+              "RelativeToolTip": "SignalR\\Logs\\log.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4FAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-24T05:30:44.948Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Configuration\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "SignalR\\Configuration\\ConfigurationHelper.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Configuration\\ConfigurationHelper.cs",
+              "RelativeToolTip": "SignalR\\Configuration\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:51:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TcpDataReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\TcpDataReceiver.cs",
+              "RelativeDocumentMoniker": "SignalR\\DataTransfer\\TcpDataReceiver.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\TcpDataReceiver.cs",
+              "RelativeToolTip": "SignalR\\DataTransfer\\TcpDataReceiver.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:49:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqClient.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\RabbitMqClient.cs",
+              "RelativeDocumentMoniker": "SignalR\\DataTransfer\\RabbitMqClient.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\RabbitMqClient.cs",
+              "RelativeToolTip": "SignalR\\DataTransfer\\RabbitMqClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:48:45.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalR\\appsettings.json",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\appsettings.json",
+              "RelativeToolTip": "SignalR\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T11:39:50.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\MyHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\DataTransfer\\MyHub.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\DataTransfer\\MyHub.cs",
+              "RelativeToolTip": "SignalR\\DataTransfer\\MyHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:24:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraceData.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Models\\TraceData.cs",
+              "RelativeDocumentMoniker": "SignalR\\Models\\TraceData.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Models\\TraceData.cs",
+              "RelativeToolTip": "SignalR\\Models\\TraceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:44:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\staj\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeToolTip": "SignalR\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:47:49.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
